@@ -1,0 +1,19 @@
+{
+    "name": "Java 21 Development",
+    "dockerFile": "Dockerfile",
+    "context": "..",
+    "features": {
+        "ghcr.io/devcontainers/features/java:1": {
+            "version": "none",
+            "installMaven": "true"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "redhat.vscode-xml",
+                "redhat.fabric8-analytics"
+            ]
+        }
+    }
+}

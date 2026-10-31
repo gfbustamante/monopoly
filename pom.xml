@@ -17,7 +17,7 @@
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <javafx.version>24-ea+5</javafx.version>
+    <javafx.version>28-ea+5</javafx.version>
     <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
   </properties>
 
